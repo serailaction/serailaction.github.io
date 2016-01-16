@@ -1,0 +1,4 @@
+#!/bin/sh
+
+jekyll serve --watch --port 6660 --host 127.0.0.1 
+

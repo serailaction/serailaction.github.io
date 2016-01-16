@@ -1,0 +1,112 @@
+<div class="page-header">
+  <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
+</div>
+
+<div class="row post-full">
+  <div class="col-md-9">
+    <div class="date">
+      <span>{{ page.date | date_to_long_string }}</span>
+    </div>
+    <div class="content">
+      {{ content }}
+    </div>
+
+<br><br>
+
+
+<h4>Share:</h4>
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="philmonkey">Tweet</a>
+
+<!-- Put this just before the closing body tag -->
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<!-- Google + -->
+<g:plusone size="medium"></g:plusone>
+
+<!-- Add this just before the closing body tag of your web page -->	
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<script type="text/javascript" src="http://www.reddit.com/buttonlite.js?i=2&styled=off&url=http://www.philrogers.me{{ page.url }}&newwindow=1"></script>
+<h4>Related posts:</h4>
+{% comment %}
+only show stuff where there is at least one tag in it
+{% endcomment %}
+
+
+{% for post in site.posts limit: 20 %}
+<div class="row-fluid">
+  <div class="span12">
+  	
+  	{% assign cap2 = "" %} 
+  	{% assign thistagcount = 0 %}
+  	{% assign tagmatch =0 %}
+  	{% assign display=0 %}
+  	{% for rel_tag in post.tags %}
+  		{% assign thistagcount = 0 %}
+  		{% assign cap1 = "" %}
+  		{% for tag in page.tags %}
+  			{% capture cap1 %}{{cap1}}*{% endcapture %}
+  			{% assign thistagcount = thistagcount + 1 %}
+  		
+  			{% if tag == rel_tag %}
+  				{% capture cap2 %}{{cap2}}*{% endcapture %}
+  				{% assign tagmatch = tagmatch plus 1 %}
+  			{% endif %}
+  		{% endfor %}
+  	{% endfor %}
+  	{% assign test1 = cap2.size %}
+  	{% if test1 > 1 %}
+  		{% assign display = 1 %}
+  	{% endif %}
+  	{% if post.url == page.url %}
+  		{% assign display = 0 %}
+  	{% endif %}
+  	{% if display == 1 %}
+    <b>{{ post.date | date_to_long_string }}</b> | <a href="{{ post.url }}">{{ post.title }}</a>
+	{% endif %}
+  </div>
+</div>
+{% endfor %}
+
+<div class="tag_box inline">
+<h4>Tags:</h4>
+
+  {% unless page.tags == empty %}
+    
+      
+      {% assign tags_list = page.tags %}
+      {% include JB/tags_list %}
+
+  {% endunless %}  
+</div> 
+
+    <hr>
+    <ul class="pagination">
+    {% if page.previous %}
+      <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&laquo; Previous</a></li>
+    {% else %}
+      <li class="prev disabled"><a>&larr; Previous</a></li>
+    {% endif %}
+      <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
+    {% if page.next %}
+      <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &raquo;</a></li>
+    {% else %}
+      <li class="next disabled"><a>Next &rarr;</a>
+    {% endif %}
+    </ul>
+    <hr>
+    {% include JB/comments %}
+    </div>
+    <div class="col-md-3">
+
+
+{% include site/links.html %}	
+
+
+  </div>
+</div>
