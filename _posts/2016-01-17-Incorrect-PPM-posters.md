@@ -47,7 +47,7 @@ At last. That's all that we were looking for...an admission of a simple mistake.
 
 The PPM figures are an indicator of how Southeastern are performing. They are required as part of their franchise agreement to communicate this with users of their service.
 
-Their own Passenger states that these will be available at selected stations as posters, and also on their website.
+Their own Passenger Charter states that these will be available at selected stations as posters, and also on their website.
 
 To date they have not posted up the actual Period 9 figures anywhere - the posters don't count. And a week after Period 10 ended, these figures are also not available to the public.
 
