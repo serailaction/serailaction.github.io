@@ -57,7 +57,7 @@ It wasn't.
 
 And, as per usual, we experienced the 'fobbing off', that I regularly tweet about.
 
-The attitudes at Southeastern need to change: both to the customers, and their stakeholders.
+The attitudes at Southeastern need to change: both to their customers, and their stakeholders.
 
 ##That £250?
 
