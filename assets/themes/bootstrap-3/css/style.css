@@ -46,6 +46,14 @@ h1, h2, h3 {
     display:none;
 }
 
+a:link {
+    color: dodgerblue
+}
+
+a:visited {
+    color: dodgerblue
+}
+
 h1 {
     color: #149DE1;
     margin: 0;
