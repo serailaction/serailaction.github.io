@@ -17,7 +17,7 @@ It's been talked about a lot on Twitter over the years, about how hot the train 
 
 But...after my left leg being literally roasted on the Monday commute, I took some time to find my IR thermometer that helped with the #stoptheheating campaign over at DRTA, and was shocked to find this:
 
-<img src="{{ site.url }}/images/Roasting1.png" alt="73.3C" style="width: 500px;"/>
+<img src="{{ site.url }}/images/Roasting1.PNG" alt="73.3C" style="width: 500px;"/>
 
 The Health & Safety Executive guidlines recommend that surface temperatures of radiators that could come into contact with people 'should not exceed 43C'
 
@@ -27,7 +27,7 @@ These are heaters that go within inches of rail users' legs
 
 I took another reading later on in the journey, a less toasty 51.1C, but still 8.1C above the guidlines from the HSE
 
-<img src="{{ site.url }}/images/Roasting2.png" alt="51.1C" style="width: 500px;"/>
+<img src="{{ site.url }}/images/Roasting2.PNG" alt="51.1C" style="width: 500px;"/>
 
 ##What could you cook at 73.3C?
 
