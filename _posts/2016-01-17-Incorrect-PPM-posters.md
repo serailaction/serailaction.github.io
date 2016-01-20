@@ -21,6 +21,8 @@ A week later, our 'Public Affairs Manager' contact at Southeastern got back to u
 
 I, however, was not satisfied that they could in any way be accurate, and made this statement, with a rather big challenge... ['“Independently audited” PPM stats from Southeastern: Lies'](https://www.drta.org.uk/119/independently-audited-ppm-stats-from-southeastern-lies/)
 
+SPLIT_HERE
+
 ##Let's have a meeting
 
 Of course, the standard response from Southeastern to divert attention/sweep an issue under the carpet, was to suggest that this is best resolved in a meeting.

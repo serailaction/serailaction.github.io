@@ -1,6 +1,6 @@
 ---
 layout: post
-category : a
+category : THIS_IS_A_CATEGORY
 tagline: of rail users
 tags : 
 comments: false
@@ -16,6 +16,8 @@ I brought my IR thermometer to work today, and discovered that Southeastern were
 It's been talked about a lot on Twitter over the years, about how hot the train was...and...I think we've just got used to it.
 
 But...after my left leg being literally roasted on the Monday commute, I took some time to find my IR thermometer that helped with the #stoptheheating campaign over at DRTA, and was shocked to find this:
+
+SPLIT_HERE
 
 <img src="{{ site.url }}/images/Roasting1.PNG" alt="73.3C" style="width: 500px;"/>
 

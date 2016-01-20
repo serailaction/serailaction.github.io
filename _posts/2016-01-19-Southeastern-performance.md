@@ -9,6 +9,8 @@ summary: Southeastern PPM targets and actual performance
 
 {% include JB/setup %}
 
+###Updated to include Period 9 and Period 10
+
 ##What these numbers show
 
 As part of the new franchise agreement, Southeastern were required to report their performance by line of route.
@@ -26,6 +28,8 @@ As you scroll down, you'll see the coloured cells increasing, showing how Southa
 From Period 8 onwards (so only one set of data as Period 9 hasn't yet been published, and is late as per Southeastern's Passenger Charter), I've also included a Year on Year comparison of actual performance, to see how your line has improved, or most likely, deteriorated since the same period the last year.
 
 As more data becomes available I'll repost this article and update the images
+
+SPLIT_HERE
 
 ##2014 Targets and actual performance
 
