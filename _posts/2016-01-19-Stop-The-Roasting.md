@@ -9,7 +9,7 @@ summary: I brought my IR thermometer to work today, and discovered that Southeas
 
 {% include JB/setup %}
 
-##It's time to #stoptheroasting
+## It's time to #stoptheroasting
 
 I brought my IR thermometer to work today, and discovered that Southeastern were breaking HSE guidelines on safe radiator surface temperatures...
 
@@ -31,13 +31,13 @@ I took another reading later on in the journey, a less toasty 51.1C, but still 8
 
 <img src="{{ site.url }}/images/Roasting2.PNG" alt="51.1C" style="width: 500px;"/>
 
-##What could you cook at 73.3C?
+## What could you cook at 73.3C?
 
 According to Heston Blumenthal, a 70C fan-assisted oven is great to [roast a chicken](http://countryskillsblog.com/2012/01/27/heston-blumenthal-how-not-to-roast-a-chicken/)
 
 And [another article](http://www.theguardian.com/lifeandstyle/2001/nov/24/foodanddrink.shopping) states that above 70C the meat no longer holds its oxygen and turns grey.  Just like your leg
 
-##What have Southeastern said so far?
+## What have Southeastern said so far?
 
 Nothing on twitter.
 
@@ -51,7 +51,7 @@ Which I did! My first tweet to @se_railway had the carriage number in...they obv
 
 The comment seems to follow their ongoing disregard for the fare paying customer
 
-##Time for Action: how you can help
+## Time for Action: how you can help
 
 Over the next few days, if you have an infra-red thermometer take it on your commute, and take the temperature reading of the service of the radiator on the train.
 
@@ -67,7 +67,7 @@ Or email contact@serailaction.uk if you're not on twitter
 
 And a selection of these will be featured on the website!
 
-##What do we want from Southeastern?
+## What do we want from Southeastern?
 
 An acknowledgement that this is an issue. And a clear explanation of what they plan to do.
 
@@ -75,7 +75,7 @@ We'd also like to know if they've carried out a Risk Assessment of their heating
 
 As ever, any response will be shared.
 
-##Excessive heating so far
+## Excessive heating so far
 
 From Peter Mount:
 

@@ -9,7 +9,7 @@ summary: After 2 weeks of questioning Southeastern's PPM posters, finally they a
 
 {% include JB/setup %}
 
-##Period 9 PPM Posters or #PPMgate
+## Period 9 PPM Posters or #PPMgate
 
 Nearly two weeks ago, as part of my work with [Dartford Rail Travellers' Association](http://www.drta.org.uk), I raised to our contact at Southeastern that the Period 9 poster they had up at Charing Cross had the same numbers, albeit rounded to 2 decimal places and not 1, as the Period 8 stats on their website.
 
@@ -23,7 +23,7 @@ I, however, was not satisfied that they could in any way be accurate, and made t
 
 SPLIT_HERE
 
-##Let's have a meeting
+## Let's have a meeting
 
 Of course, the standard response from Southeastern to divert attention/sweep an issue under the carpet, was to suggest that this is best resolved in a meeting.
 
@@ -33,19 +33,19 @@ Mike suggested that the raw stats are available so we can examine these 'indepen
 
 So... we issued a [press release](https://www.drta.org.uk/124/press-release-southeastern-publishing-misleading-public-performance-measurement-ppm-stats/) to highlight the problem.  Sadly the press didn't pick up on a very clear piece of misleading information from Southeastern.
 
-##One final attempt
+## One final attempt
 
 After finding the 2015 Period 1-6 stats on Saturday evening, I spent Sunday morning doing the maths for the actual split between lines...the only way the poster could make sense is if the HS1 stats contributed to -20% of the stats.
 
 Since we had no response to the last email, I also confirmed that the stats would help me understand their assertion that the data in the posters were accurate
 
-##An apology
+## An apology
 
 Within an hour of my emails we received an apology and a confirmation that the posters were, indeed, wrong - ['PPM posters: A response and apology from Southeastern'](https://www.drta.org.uk/126/ppm-posters-a-response-from-southeastern/)
 
 At last. That's all that we were looking for...an admission of a simple mistake...we all make mistakes, but admitting to it is sometimes hard...
 
-##Why is this important?
+## Why is this important?
 
 The PPM figures are an indicator of how Southeastern are performing. They are required as part of their franchise agreement to communicate this with users of their service.
 
@@ -61,7 +61,7 @@ And, as per usual, we experienced the 'fobbing off', that I regularly tweet abou
 
 The attitudes at Southeastern need to change: both to their customers, and their stakeholders.
 
-##That £250?
+## That £250?
 
 The money I put on the table will be going to charity...and I'll tweet about that soon - I just need to finish that website which was sidelined by the PPM discussion and also setting up this group.
 

@@ -9,9 +9,9 @@ summary: Southeastern PPM targets and actual performance
 
 {% include JB/setup %}
 
-###Updated to include Period 9 and Period 10
+## #Updated to include Period 9 and Period 10
 
-##What these numbers show
+## What these numbers show
 
 As part of the new franchise agreement, Southeastern were required to report their performance by line of route.
 
@@ -31,13 +31,13 @@ As more data becomes available I'll repost this article and update the images
 
 SPLIT_HERE
 
-##2014 Targets and actual performance
+## 2014 Targets and actual performance
 
 ![2014 P8-P10]({{ site.url }}/images/SERA-2014-P8-P10.png)
 
 ![2014 P11-P13]({{ site.url }}/images/SERA-2014-P11-P13.png)
 
-##2015 Targets and actual performance
+## 2015 Targets and actual performance
 
 ![2015 P1-P3]({{ site.url }}/images/SERA-2015-P1-P3.png)
 
