@@ -9,19 +9,11 @@ tagline:
 	<div class="col-md-9" id="indexpage">
 	{% for post in site.posts %}
     {% capture stickyX %}{{post.categories}}{% endcapture %}
-    {% if stickyX == "sticky" %}
-    <span><a href="{{ BASE_PATH }}{{ post.url }}"  style="text-decoration: none"><h1>{{ post.title }}</h1></a></span>
-                    
+    {% if stickyX == "pinned post" %}
+    <span><a href="{{ BASE_PATH }}{{ post.url }}"  style="text-decoration: none"><h1>{{ post.title }}</h1></a></span><br>
+                    <div class="highlighter">pinned post</div>
 					<b>{{ post.date | date_to_string }}</b>
-					
-					
-					<br>
-                    <!--
-						{{ post.content | truncatewords: 250 }}
-                       -->
-
-                       
-                       
+					<br>                       
                        {{post.content | split:"SPLIT_HERE" | first}}
 
                         {% capture posted_text %} {{post.content | split:"SPLIT_HERE" | first}}{% endcapture %}
@@ -50,9 +42,12 @@ tagline:
 
     {% for post in site.posts %}
     {% capture stickyX %}{{post.categories}}{% endcapture %}
-{% if stickyX != "sticky" %}
-    <span><a href="{{ BASE_PATH }}{{ post.url }}"  style="text-decoration: none"><h1>{{ post.title }}</h1></a></span>
+{% if stickyX != "pinned post" %}
+    <span><a href="{{ BASE_PATH }}{{ post.url }}"  style="text-decoration: none"><h1>{{ post.title }}</h1></a></span><br>
+    {% if stickyX != '' %}
+                    <div class="highlighter">{{stickyX}}</div>
                     
+                    {% endif %}
 					<b>{{ post.date | date_to_string }}</b>
 					
 					

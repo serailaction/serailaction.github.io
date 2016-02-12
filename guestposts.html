@@ -1,0 +1,25 @@
+---
+layout: page
+title : Guest Posts
+header : Post Archive
+group: navigation
+---
+{% include JB/setup %}
+
+{% assign posts_collate = site.posts %}
+{% assign guest_posts=0 %}
+<ul class="posts">
+{% for post in site.posts %}
+    {% if post.categories contains 'guest post' %}
+    {% assign guest_posts = guest_posts | plus: 1 %}
+        <li><span><b>{{ post.date | date: "%A, %B %-d, %Y" }}</b></span> | <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+{% if guest_posts == 0 %}
+    There are currently no guest posts
+{% endif %}
+
+<!--
+{% include JB/posts_collate %}
+-->

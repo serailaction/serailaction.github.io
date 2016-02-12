@@ -1,6 +1,6 @@
 ---
 layout: post
-category : a
+category :
 tagline: since Oct 2014
 tags : 
 comments: false

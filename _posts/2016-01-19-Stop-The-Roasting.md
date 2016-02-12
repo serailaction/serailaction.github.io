@@ -1,6 +1,6 @@
 ---
 layout: post
-category : THIS_IS_A_CATEGORY
+category : group action
 tagline: of rail users
 tags : 
 comments: false

@@ -1,6 +1,6 @@
 ---
 layout: post
-category : a
+category :
 tagline: finally, an apology
 tags : 
 comments: false

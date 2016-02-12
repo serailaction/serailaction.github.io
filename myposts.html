@@ -1,10 +1,26 @@
 ---
 layout: page
-title : My Posts
+title : SERAG Posts
 header : Post Archive
 group: navigation
 ---
 {% include JB/setup %}
 
-{% assign posts_collate = site.posts %}
+
+<ul class="posts">
+{% for post in site.posts %}
+    {% unless post.categories contains 'guest post' %}
+
+        <li><span><b>{{ post.date | date: "%A, %B %-d, %Y" }}</b></span> |     {% capture stickyX %}{{post.categories}}{% endcapture %}
+{% if stickyX != "pinned post" %}
+    {% if stickyX != '' %}
+                    <div class="highlighter">{{stickyX}}</div>
+    {% endif %}
+{% endif %}<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endunless %}
+{% endfor %}
+</ul>
+
+<!--
 {% include JB/posts_collate %}
+-->
