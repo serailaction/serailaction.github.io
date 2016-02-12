@@ -12,11 +12,13 @@ Twitter: [@serailaction](http://www.twitter.com/serailaction)
 
 Facebook: [Southeastern Rail Action Group](http://www.facebook.com/groups/serailaction)
 
-### Contact me
+E-mail: [contact@serailaction.uk](mailto:contact@serailaction.uk)
+
+### Contact me directly
 
 Twitter: [@philmonkey](http://www.twitter.com/philmonkey)
 
-E-mail: [phil@serailaction.uk](mailto:london@phil.run)
+E-mail: [phil@serailaction.uk](mailto:phil@serailaction.uk)
 
 ### Disclaimer
 
