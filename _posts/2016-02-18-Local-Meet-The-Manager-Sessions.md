@@ -31,4 +31,6 @@ Southeastern today informed us of extra Meet the Manager sessions, as detailed b
 
 Come prepared with good questions, and please share any feedback with us so it can be tweeted or put into an article!
 
-(I've aksed for clarification on the two MtM sessions on the 23rd to check it isn't a typo)
+(I've asked for clarification on the two MtM sessions on the 23rd to check it isn't a typo)
+
+NOTE: these are in addition to the normal sessions listed here: [http://www.southeasternrailway.co.uk/contact-us/meet-the-manager/](http://www.southeasternrailway.co.uk/contact-us/meet-the-manager/)
