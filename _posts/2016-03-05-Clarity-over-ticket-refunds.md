@@ -33,7 +33,7 @@ Let's see:
 
 - "unable to travel through illness for a minimum of four continuous unbroken weeks." - and a refund of half the weekly cost during that time
 
-So I was resigned to getting around £100 back
+So I was resigned to getting around £100 back - I didn't need the ticket to run until March 11th as I was told to work from home, and if I went to the office only for a few days a week - so a season ticket was useless to me.
 
 ## The day before visiting the ticket office
 
