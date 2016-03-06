@@ -15,7 +15,9 @@ As many of you know, I was in hospital for unexpected emergency surgery at the e
 
 I had a season ticket bought until early March when I was expecting to go away - there's no point buying an annual ticket.
 
-So...whilst stuck in hospital, and enjoying the fact I wouldn't have to take a Southeastern service, I was thining...surely I can get a refund?
+So...whilst stuck in hospital, and enjoying the fact I wouldn't have to take a Southeastern service, I was thinking...surely I can get a refund?
+
+And that's when I realised that what Southeastern have on their website is lacking the information needed to get a proper refund...
 
 SPLIT_HERE
 
