@@ -25,10 +25,8 @@ SPLIT_HERE
 
 Here's screen captures from their website:
 
-<img src="{{ site.url }}/images/refund-ser-1.png" alt="refund-1" style="width: 100%;"/>
+<img src="{{ site.url }}/images/refund-ser.png" alt="refund faq - southeastern website" style="width: 100%;"/>
 
-
-<img src="{{ site.url }}/images/refund-ser-2.png" alt="refund-2" style="width: 100%;"/>
 
 Let's see:
 
@@ -78,3 +76,17 @@ And Southeastern should tell the truth on their Ticket FAQs or passsengers may t
 In summary: 
 
 <b>Southeastern: do better, and put clear, correct, information on your site.</b> People recovering from illness/surgery don't need to have to go through hoops to get what they're entitled to.
+
+### Update - Sunday 6th March
+
+Southeastern, via twitter said: 
+
+> We've raised your concerns with the relevant colleagues Phil, for updates on this please liaise direct with ^MG.. ^JT
+
+To which I responded, given my previous contact with ^MG (see (my write up here)[http://philrogers.me/0124a]):
+
+> thanks - maybe he’ll let me know the outcome himself? ;)
+
+Let's see what comes of this...
+
+
