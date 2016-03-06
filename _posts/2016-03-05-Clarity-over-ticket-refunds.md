@@ -23,7 +23,7 @@ SPLIT_HERE
 
 ## What Southeastern say
 
-Here's screen captures from their website:
+Here's the screen capture from their website as of Saturday 5th March 2016 (edit: I updated the original one with a better quality one on Sunday, nothing had changed):
 
 <img src="{{ site.url }}/images/refund-ser.png" alt="refund faq - southeastern website" style="width: 100%;"/>
 
