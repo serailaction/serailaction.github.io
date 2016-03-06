@@ -17,6 +17,7 @@ I had a season ticket bought until early March when I was expecting to go away -
 
 So...whilst stuck in hospital, and enjoying the fact I wouldn't have to take a Southeastern service, I was thining...surely I can get a refund?
 
+SPLIT_HERE
 
 ## What Southeastern say
 
