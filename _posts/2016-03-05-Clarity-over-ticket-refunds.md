@@ -83,7 +83,7 @@ Southeastern, via twitter said:
 
 > We've raised your concerns with the relevant colleagues Phil, for updates on this please liaise direct with ^MG.. ^JT
 
-To which I responded, given my previous contact with ^MG (see (my write up here)[http://philrogers.me/0124a]):
+To which I responded, given my previous contact with ^MG (see [my write up here](http://philrogers.me/0124a)):
 
 > thanks - maybe he’ll let me know the outcome himself? ;)
 
