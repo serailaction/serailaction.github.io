@@ -31,6 +31,8 @@ So despite [failing miserably at them in the last year](http://serailaction.uk/2
 
 So what are the targets?
 
+SPLIT_HERE
+
 ## The actual targets
 
 You can find them in the [redacted southeastern franchise document](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/485668/red_lser-rail-franchise-agreement.pdf) on pages 250-254
