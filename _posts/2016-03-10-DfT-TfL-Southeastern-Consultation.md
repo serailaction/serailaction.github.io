@@ -68,3 +68,5 @@ You can also share your thoughts with SERAG by cc-ing or bcc-ing <b>[contact@ser
 ### Remember the deadline is March 18th!!
 
 So get your thinking caps on and send your thoughts in to TfL and the DfT.
+
+<b>Please share this post with your fellow Southeastern rail users so they can provide their feedback too!</b>
