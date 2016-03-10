@@ -61,6 +61,8 @@ Throughout the prospectus are 6 questions in orange boxes, outlined below:
 
 and once you're done mail your responses to <b>[railprospectus@tfl.gov.uk](mailto:railprospectus@tfl.gov.uk)</b>
 
+You have the option to put forward your other views on the ideas set out in the prospectus as well as answering those six questions...so include any relevant thoughts in your response!
+
 You can also share your thoughts with SERAG by cc-ing or bcc-ing <b>[contact@serailaction.uk](mailto:contact@serailaction.uk)</b> on your response - I'll collect up the thoughts of all those who do, and present them (with any personal information removed) to get an opinion of what our members feel about this.
 
 ### Remember the deadline is March 18th!!
