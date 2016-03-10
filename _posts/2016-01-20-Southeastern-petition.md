@@ -1,6 +1,6 @@
 ---
 layout: post
-category : pinned post
+category : 
 tagline: to get Govia out
 tags : 
 comments: false
