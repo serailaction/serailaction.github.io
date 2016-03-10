@@ -4,7 +4,7 @@ title: DfT/TfL Southeastern consultation
 category : pinned post
 tagline: get your views in!
 tags : 
-comments: false
+comments: true
 summary: 
 ---
 
