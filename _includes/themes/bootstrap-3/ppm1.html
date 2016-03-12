@@ -15,11 +15,7 @@
                     <div class="highlighter">{{stickyX}}</div>
     {% endif %}
 {% endif %}
-      <span>{{ page.date | date_to_long_string }}
-        {% if page.author %}
-                        | {{page.author}}
-                    {% endif %}
-        </span>
+      <span>{{ page.date | date_to_long_string }}</span>
     </div>
     <div class="content">
       {{content | split:"SPLIT_HERE"}}

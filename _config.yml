@@ -2,6 +2,18 @@
 # For more see: http://jekyllrb.com/docs/permalinks/
 #permalink: /:categories/:year/:month/:day/:title 
 permalink: /:year-:month-:day-:title.html
+# Pages permalink
+defaults:
+  -
+    scope:
+      type: "ppm"
+    values:
+      permalink: /:path/:basename:output_ext
+   
+    scope:
+      type: "posts"
+    values:
+      author: "Phil Rogers"
 #use categories to tag a post for a better short url
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]

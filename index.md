@@ -8,11 +8,16 @@ tagline:
 <div class="container" id="indexpage">
 	<div class="col-md-9" id="indexpage">
 	{% for post in site.posts %}
+    {% capture display %}{{post.indexhide}}{% endcapture %}
+    {% if display != 'true' %}
     {% capture stickyX %}{{post.categories}}{% endcapture %}
     {% if stickyX == "pinned post" %}
     <span><a href="{{ BASE_PATH }}{{ post.url }}"  style="text-decoration: none"><h1>{{ post.title }}</h1></a></span><br>
                     <div class="highlighter">pinned post</div>
-					<b>{{ post.date | date_to_string }}</b>
+                    <b>{{ post.date | date_to_string }}</b>
+                    {% if post.author %}
+                        | {{post.author}}
+                    {% endif %}
 					<br>                       
                        {{post.content | split:"SPLIT_HERE" | first}}
 
@@ -37,10 +42,13 @@ tagline:
 					<br><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://philrogers.me{{ BASE_PATH }}{{ post.url }}" data-via="philmonkey">Tweet</a>
                     -->
                     <br>
-     {% endif %}               
+     {% endif %} 
+     {% endif %}
 	{% endfor %}	
 
     {% for post in site.posts %}
+    {% capture display %}{{post.indexhide}}{% endcapture %}
+    {% if display != 'true' %}
     {% capture stickyX %}{{post.categories}}{% endcapture %}
 {% if stickyX != "pinned post" %}
     <span><a href="{{ BASE_PATH }}{{ post.url }}"  style="text-decoration: none"><h1>{{ post.title }}</h1></a></span><br>
@@ -49,7 +57,9 @@ tagline:
                     
                     {% endif %}
 					<b>{{ post.date | date_to_string }}</b>
-					
+					                    {% if post.author %}
+                        | {{post.author}}
+                    {% endif %}
 					
 					<br>
                 
@@ -78,6 +88,7 @@ tagline:
                     -->
                     <br>
                     
+      {% endif %}
       {% endif %}
 	{% endfor %}	    
 
