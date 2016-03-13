@@ -6,7 +6,6 @@ tagline: do not believe political campaigning
 tags : 
 comments: true
 summary: 
-indexhide: true
 ---
 
 {% include JB/setup %}
@@ -49,7 +48,7 @@ Really?
 
 That was the day the prospectus asking for feedback on the proposals was released.
 
-No decision was made, despite a lot of the press citing that TfL <b>will</b> take over.  Which a lot of people, including myself, took as given.
+No decision was made, despite a lot of the press citing that TfL <b>will</b> take over.  Which a lot of people, including myself at the time, took as given.
 
 However, you would think that someone on the Greater London Authority would be able to tell the difference?
 
@@ -59,10 +58,9 @@ Cleary not.
 
 Please send it over (contact details at the top of each page) - Our rail service shouldn't be used as a political football in times of elections, and then kicked into the long grass once the candidate is elected.
 
-It most definitely shouldn't be used to peddle claims that something has been done by a prosepective candidate. When nothing has been done.
+It most definitely shouldn't be used to peddle claims that something has been done by a prospective candidate. When nothing has been done.
 
 ## Respond to the consultation - deadline Friday 18th March
 
 If you haven't already, respond to the consultation - [more details here](http://serailaction.uk/2016-03-10-DfT-TfL-Southeastern-Consultation.html) this is still in the consultative stage.
-
 
