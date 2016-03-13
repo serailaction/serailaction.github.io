@@ -63,3 +63,7 @@ It most definitely shouldn't be used to peddle claims that something has been do
 ## Respond to the consultation - deadline Friday 18th March
 
 If you haven't already, respond to the consultation - [more details here](http://serailaction.uk/2016-03-10-DfT-TfL-Southeastern-Consultation.html) this is still in the consultative stage.
+
+## The right to reply
+
+Of course if Mr Bacon would like to reply or provide further insight into his thoughts, I'm happy to add that as an update to this article. It's only fair...
