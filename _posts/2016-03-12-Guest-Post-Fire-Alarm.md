@@ -7,7 +7,7 @@ tags :
 comments: true
 summary: 
 author: Paula Robinson
-indexhide: true
+indexhide: false
 ---
 
 {% include JB/setup %}
@@ -20,7 +20,7 @@ And later, when it hopefully all turns out to have been a false alarm, you’d e
 
 Well… now imagine that the building is Cannon Street mainline station. Run by Southeastern trains. And prepare to enter a parallel universe in which a full emergency evacuation alarm sounds, and NONE of the above things happen.
 
- 
+SPLIT_HERE
 ### Wednesday, 2 March
 
 After a regular work day, I went as usual to Cannon Street, to catch the 1848 train home to Bromley North via Grove Park. The platform wasn’t up on the board yet when I arrived, at just before 1830, but it’s always platform 1, so I went through the barrier and up the platform to stand in my usual spot, near the far end.
