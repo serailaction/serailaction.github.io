@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DfT/TfL consultation - it has not been agreed
-category : pinned post
+category :
 tagline: do not believe political campaigning
 tags : 
 comments: true
@@ -63,4 +63,3 @@ It most definitely shouldn't be used to peddle claims that something has been do
 ## Respond to the consultation - deadline Friday 18th March
 
 If you haven't already, respond to the consultation - [more details here](http://serailaction.uk/2016-03-10-DfT-TfL-Southeastern-Consultation.html) this is still in the consultative stage.
-
