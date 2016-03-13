@@ -9,8 +9,10 @@ group: navigation
 
 <ul class="posts">
 {% for post in site.posts %}
+    {% capture display %}{{post.indexhide}}{% endcapture %}
+    {% if display != 'true' %}
     {% unless post.categories contains 'guest post' %}
-
+    
         <li><span><b>{{ post.date | date: "%A, %B %-d, %Y" }}</b></span> |     {% capture stickyX %}{{post.categories}}{% endcapture %}
 {% if stickyX != "pinned post" %}
     {% if stickyX != '' %}
@@ -18,6 +20,7 @@ group: navigation
     {% endif %}
 {% endif %}<a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
     {% endunless %}
+    {% endif %}
 {% endfor %}
 </ul>
 

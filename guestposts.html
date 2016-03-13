@@ -10,9 +10,12 @@ group: navigation
 {% assign guest_posts=0 %}
 <ul class="posts">
 {% for post in site.posts %}
+    {% capture display %}{{post.indexhide}}{% endcapture %}
+    {% if display != 'true' %}
     {% if post.categories contains 'guest post' %}
     {% assign guest_posts = guest_posts | plus: 1 %}
         <li><span><b>{{ post.date | date: "%A, %B %-d, %Y" }}</b></span> | <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
     {% endif %}
 {% endfor %}
 </ul>
