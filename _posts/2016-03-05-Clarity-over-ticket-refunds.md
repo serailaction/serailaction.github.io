@@ -20,7 +20,7 @@ So...whilst stuck in hospital, and enjoying the fact I wouldn't have to take a S
 
 And that's when I realised that what Southeastern have on their website is lacking the information needed to get a proper refund...
 
-<b>(Latest update: Wednesday 9th March)</b>
+<b>(Latest update: Monday 21st March)</b>
 
 SPLIT_HERE
 
@@ -108,7 +108,7 @@ I've also asked for the [Thameslink/Great Northern site](http://www.thameslinkra
 
 I'm glad that I can draw a line under this, and will keep an eye out on the changes to ensure that the changes are clear enough for those who need it.
 
-### Update - Monday 20th March
+### Update - Monday 21st March
 
 Nothing has changed on the Southeastern site.
 
