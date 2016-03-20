@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DfT/TfL Southeastern consultation
-category : pinned post
+category : 
 tagline: get your views in!
 tags : 
 comments: true

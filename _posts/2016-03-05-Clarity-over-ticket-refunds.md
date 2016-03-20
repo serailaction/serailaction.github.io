@@ -1,10 +1,10 @@
 ---
 layout: post
-category : 
-tagline: 
+category : pinned post
+tagline: as Southeastern don't seem to have it right
 tags : 
-comments: false
-summary: as Southeastern don't seem to have it right
+comments: true
+summary: Southeastern have, for months, mislead their customers on season ticket refunds when illness happens
 ---
 
 {% include JB/setup %}
@@ -107,3 +107,14 @@ I've also asked for the [Thameslink/Great Northern site](http://www.thameslinkra
 
 I'm glad that I can draw a line under this, and will keep an eye out on the changes to ensure that the changes are clear enough for those who need it.
 
+### Update - Monday 20th March
+
+Nothing has changed on the Southeastern site.
+
+The content is still the same, despite our contact saying it will be addressed 'within the next few days'
+
+Will it be? Or is this another attempt at fobbing off and keeping tweets from this group and others silent?
+
+Well, until it is fixed, information about how Southeastern aren't being totally open and honest about what you're entitled to should you find yourself ill will keep being broadcast.
+
+And this page will serve as historical record of how not fully detailing refund policy may have mislead customers in the past who could have lost out by not requesting a refund in light of the information provided to them.
