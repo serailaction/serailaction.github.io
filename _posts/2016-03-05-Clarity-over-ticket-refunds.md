@@ -116,6 +116,8 @@ The content is still the same, despite our contact saying it will be addressed '
 
 Will it be? Or is this another attempt at fobbing off and keeping tweets from this group and others silent?
 
+It's not something difficult to fix, and surely this will help increase trust from customers who are already distrustful of what they are told?
+
 Well, until it is fixed, information about how Southeastern aren't being totally open and honest about what you're entitled to should you find yourself ill will keep being broadcast.
 
 And this page will serve as historical record of how not fully detailing refund policy may have mislead customers in the past who could have lost out by not requesting a refund in light of the information provided to them.
