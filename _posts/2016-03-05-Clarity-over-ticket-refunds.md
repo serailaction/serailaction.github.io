@@ -5,6 +5,7 @@ tagline: as Southeastern don't seem to have it right
 tags : 
 comments: true
 summary: Southeastern have, for months, mislead their customers on season ticket refunds when illness happens
+fbimg: serailtellthetruth.png
 ---
 
 {% include JB/setup %}
