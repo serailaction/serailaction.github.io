@@ -35,8 +35,11 @@ Customers legs are within a couple of inches of the heating grill typically - wh
 Examples can be found in various tweets:
 
 [https://twitter.com/peter_mount/status/689525628299796483](https://twitter.com/peter_mount/status/689525628299796483)
+
 [https://twitter.com/SERailAction/status/712562749054779392](https://twitter.com/SERailAction/status/712562749054779392)
+
 [https://twitter.com/SERailAction/status/690451416087957504](https://twitter.com/SERailAction/status/690451416087957504)
+
 [https://twitter.com/SERailAction/status/689725351837241345](https://twitter.com/SERailAction/status/689725351837241345)
 
 
@@ -53,5 +56,7 @@ Is this an issue that the ORR or HSE see as potentially dangerous for younger pa
 I'm happy to provide more information if needed, and a number of the SERAG group members have bought IR thermometers and can measure temperatures on their services too.
 
 Regards,
+
 Phil Rogers
+
 Southeastern Railway Action Group | serailaction.uk
