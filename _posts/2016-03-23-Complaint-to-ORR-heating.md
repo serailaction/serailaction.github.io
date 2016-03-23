@@ -1,5 +1,6 @@
 ---
 layout: post
+category: pinned post
 title: "Complaint to Office of Rail and Road about heating"
 tags:
 ---

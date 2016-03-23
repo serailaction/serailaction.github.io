@@ -1,6 +1,6 @@
 ---
 layout: post
-category : pinned post
+category : 
 tagline: as Southeastern don't seem to have it right
 tags : 
 comments: true
