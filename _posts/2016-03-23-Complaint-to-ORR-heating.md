@@ -59,4 +59,4 @@ Regards,
 
 Phil Rogers
 
-Southeastern Railway Action Group | serailaction.uk
+Southeastern Railway Action Group  - serailaction.uk
