@@ -20,6 +20,10 @@ We got a response from the DfT on 25th March denying the request for the actual 
 
 This request has been declined and the data will not be released.
 
+Why?...
+
+SPLIT_HERE
+
 Two reasons were stated:
 
 1 - Information provided in confidence
