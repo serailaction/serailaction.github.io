@@ -16,7 +16,7 @@ For background to the FOI request see [this post from earlier in March](http://s
 
 ## Response from the Department for Transport
 
-We got a response from the DfT on 25th March denying the request for the actual stats that Southeastern are being measured against.
+We got a response from the DfT on 24th March denying the request for the actual stats that Southeastern are being measured against.
 
 This request has been declined and the data will not be released.
 
