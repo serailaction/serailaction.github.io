@@ -73,7 +73,9 @@ OK, David kept saying he's 'really committed to being more transparent'
 
 And he goes on to talk about the three sets of performance targets - the results of which I have tried to get from DfT.
 
-These are the targets that Southeastern must deliver, and get reported every 4 weeks to the DfT
+These are the targets that Southeastern must deliver, and get reported every 4 weeks to the DfT.
+
+I've responded to the DfT's response and asked to clarify if Southeastern also denied the release data - hopefully the response to that wouldn't be 'commercially sensitive' too.
 
 ## And the Department for Transport
 
