@@ -35,7 +35,7 @@ Ten reasons were cited for why the public interest test failed
 
 Six of them were due to 'provisional data'
 
-One was about disclosure of 'commercially sensitive information' that would 'give Southeastern's competitors an advantage'. Which competitors? for the majority of Southeastern users they don't have a choice of another rail operator. And those that do have the choice of another Govia train operating company.
+One was about disclosure of 'commercially sensitive information' that would 'give Southeastern's competitors an advantage'. Which competitors? for the majority of Southeastern users they don't have a choice of another rail operator. And those that do have the choice get to use another Govia train operating company, which operating equally as poor.
 
 Another was about data provided in confidence, and that the TOC wouldn't then provide data that wasn't required under the franchise agreement.  In another point this data was classed as 'highly sensitive commercial information'
 
