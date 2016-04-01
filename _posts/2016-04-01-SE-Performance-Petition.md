@@ -1,6 +1,6 @@
 ---
 layout: post
-category : 
+category : pinned post
 title: Southeastern Performance Figures Petition
 tagline: 
 tags : 
