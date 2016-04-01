@@ -8,7 +8,9 @@ tags:
 
 At last we finally got an agreeable date to meet with the MD of Southeastern. I attended this meeting with my Dartford Rail Travellers' hat on.
 
-This post covers my personal views of how the meeting went
+This post covers my personal views of how the meeting went...
+
+SPLIT_HERE
 
 ## Resetting the relationship
 
@@ -50,4 +52,4 @@ And I won't.
 
 ### Fan club disbanded
 
-With regret the fan club was disbanded at 12 noon today. Feel free to start one yourself :)
+With regret the fan club was disbanded at 12 noon today. Feel free to start one yourself :
