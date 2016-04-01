@@ -52,4 +52,4 @@ And I won't.
 
 ### Fan club disbanded
 
-With regret the fan club was disbanded at 12 noon today. Feel free to start one yourself :
+With regret the fan club was disbanded at 12 noon today. Feel free to start one yourself :)
