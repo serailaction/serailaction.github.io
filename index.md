@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Southeastern Railway Fan Club
+title: Southeastern Railway Action Group
 tagline: 
 ---
 {% include JB/setup %}
