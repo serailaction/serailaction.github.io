@@ -11,6 +11,8 @@ I stumbled across this purely by accident last Friday evening.
 
 Read on for more...
 
+SPLIT_HERE
+
 ## Railway time
 
 [Railway time](https://en.wikipedia.org/wiki/Railway_time) was invented in 1840.  The idea being that all trains can be kept running to one particular time, instead of the various variations across the country.
