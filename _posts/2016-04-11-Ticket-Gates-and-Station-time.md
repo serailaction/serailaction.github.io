@@ -1,6 +1,6 @@
 ---
 layout: post
-category: pinned post
+category:
 title: "The potential for off-peak overcharging"
 tags:
 ---
