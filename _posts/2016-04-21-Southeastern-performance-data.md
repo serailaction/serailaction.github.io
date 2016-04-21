@@ -36,7 +36,33 @@ As a result of the new request, the FOI has published the full performance data 
 
 The full response can be [found here](https://www.whatdotheyknow.com/request/southeastern_performance_data#incoming-801193) - lower numbers are better
 
-I'll post the data up in table form later, as well as update the graphics before
+[Updated with screenshots]
+
+The data comes in three parts, which I'll briefly cover:
+
+For each table, 'Default' looks to be the standard performance requirement, where 'Breach' is where Southeastern would breach if they went above that number.
+
+'Benchmark' is the result calculated according to the franchise document - an odd use of the 'benchmark' term.
+
+### Cancellations
+
+This table shows that Southeastern are easily meeting their cancellations requirement - i.e. have been consistently around 0.1% below their Breach requirement. A full cancellation is counted as 1 when calculating stats, partial cancellation as 0.5 (so the skip-stops are accounted for in this data)
+
+<img src="{{ site.url }}/images/stats-cancellations.png" alt="Cancellations data" style="width: 500px;"/>
+
+### Capacity
+
+This table shows that Southeastern again are easily meeting their capacity requirement - this covers that Southeastern have put on during peak. Interestingly this doesn't count services that were caught up in a 'Service Recovery Plan' (thanks Sevenoaks RTA!) which does need some further investigation.
+
+But again, they're clearly within their targets - remember, lower is better.
+
+<img src="{{ site.url }}/images/stats-capacity.png" alt="Capacity data" style="width: 500px;"/>
+
+### Delay minutes
+
+This table shows the number of minutes delay per 1000 train miles...again, clearly within the 'Breach' target:
+
+<img src="{{ site.url }}/images/stats-delaymins.png" alt="Delay minutes data" style="width: 500px;"/>
 
 ## So what has been in the public view?
 
