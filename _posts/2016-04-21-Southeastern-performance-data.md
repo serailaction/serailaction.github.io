@@ -49,7 +49,7 @@ This data, which I posted on social media earlier in the week, again, these are 
 
 2015-16:
 
-<img src="{{ site.url }}/images/2015periods.png" alt="2014 data" style="width: 500px;"/>
+<img src="{{ site.url }}/images/2015periods.png" alt="2014 data" style="width: 800px;"/>
 
 It's clear to all that performance has degraded since the new direct award franchise was awarded.  The tables show the difference between the target PPM and reported PPM.
 
