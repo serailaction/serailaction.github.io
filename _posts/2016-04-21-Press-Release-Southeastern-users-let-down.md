@@ -48,9 +48,7 @@ For each table, 'Default' looks to be the standard performance requirement, wher
 
 This table shows that Southeastern are easily meeting their cancellations requirement - i.e. have been consistently around 0.1% below their Breach requirement. A full cancellation is counted as 1 when calculating stats, partial cancellation as 0.5 (so the skip-stops are accounted for in this data)
 
-Table 1
 <img src="{{ site.url }}/images/stats-cancellations.png" alt="Cancellations data" style="width: 500px;"/>
-
 
 ### Capacity
 
@@ -58,14 +56,12 @@ This table shows that Southeastern again are easily meeting their capacity requi
 
 But again, they're clearly within their targets - remember, lower is better.
 
-Table 2
 <img src="{{ site.url }}/images/stats-capacity.png" alt="Capacity data" style="width: 500px;"/>
 
 ### Delay minutes
 
 This table shows the number of minutes delay per 1000 train miles...again, clearly within the 'Breach' target:
 
-Table 3
 <img src="{{ site.url }}/images/stats-delaymins.png" alt="Delay minutes data" style="width: 500px;"/>
 
 ## So what has been in the public view?
@@ -74,13 +70,11 @@ This data, which I posted on social media earlier in the week, again, these are 
 
 2014-15:
 
-Table 4
 <img src="{{ site.url }}/images/2014periods.png" alt="2014 data" style="width: 500px;"/>
 
 
 2015-16:
 
-Table 5
 <img src="{{ site.url }}/images/2015periods.png" alt="2014 data" style="width: 800px;"/>
 
 It's clear to all that performance has degraded since the new direct award franchise was awarded.  The tables show the difference between the target PPM and reported PPM.
