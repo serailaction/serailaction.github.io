@@ -1,8 +1,8 @@
 ---
 layout: post
-title: There were no tough targets
-category :
-tagline: we have been let down by Claire Perry
+title: PRESS RELEASE - Southeastern Rail Users let down by Claire Perry
+category : Press Release
+tagline: 
 tags : southeastern, performance, PPM, DfT, transparency
 comments: true
 summary: 
@@ -12,144 +12,38 @@ author: Phil Rogers
 
 {% include JB/setup %}
 
-I want to start this post by thanking Mike Pellatt for suggesting the approach taken for the follow-up FOI request about performance data.
+FOR IMMEDIATE RELEASE
 
-It was successful, and I'm writing up my initial thoughts after just realising the FOI was responded to.
+21st April 2016
 
-## Background
+Today we finally obtained the performance data from the Department for Transport for Southeastern since the Direct Award franchise renewal began in October 2014.
 
-The post about [the DfT's refusal to provide performance stats is here](http://serailaction.uk/2016-03-25-Southeastern-performance-FOI-response.html)
+This data has, until now, not been put into the public domain, despite claims by Rail Minister back in September 2014 that Southeastern will be subject to 'tough targets'.
 
-And Southeastern's MD David Statham confirmed when we met him that he also denied the publication of this data citing commercial reasons
+The reported PPM (http://serailaction.uk/2016-04-21-Southeastern-performance-data.html - see tables 4 and 5) shows that Southeastern have not been meeting their target Public Performance Measure (PPM) since April 2015, and the general sentiment we see on social media about the rail service is that rail users are not pleased with the service they get, with regular delays and trains skipping stations whilst leaving rail users further delayed.
 
-SPLIT_HERE
+Phil Rogers today said "I have been trying to understand these 'tough targets' that Claire Perry proudly announced in September 2014, and have been met by countless barriers: from getting access to the franchise document, to getting PPM targets, and recently getting the actual performance data, which Southeastern Managing Director David Statham proudly declared he would be transparent on, when we spent an hour on Radio Kent on Day 2 of the renewed franchise.
 
-## The new FOI request
+"The data clearly shows that whilst Southeastern, through their PPM (Public Performance Measure) data, have not met their targets, as far as the Department for Transport are concerned they have more than met the 'tough targets' set out for them.
 
-Mike suggested that I find out which data is provisional and which is full - that would cover 6 out of the 10 public interest reasons for why the Department for Transport wouldn't release the data.
+"The obfuscation of this data, and reluctance to reveal it, makes me wonder why both the DfT and Southeastern would be so protective over releasing this data. It shows them in a good light.
 
-I was ready to tackle the other 4 points.
+"What is abundantly clear, is that the rail users in South East England were sold a dud back in September 2014 when Claire Perry made us believe that tough targets were in place. They were not.
 
-I didn't have to. 
+"It's time that the Department for Transport come clean about what these 'tough targets' actually entail, and what steps they will now take to ensure that Southeastern rail users get the rail service that they deserve for the thousands of pounds that they pay each year for annual rail tickets.
 
-As a result of the new request, the FOI has published the full performance data for Southeastern up to Period 10 (9th January)
+"In the light of this data, I also call on Claire Perry to make a statement about these 'tough targets', and why we haven't seen any visible improvement in the last 18 months - she is more than welcome to contact me for a face to face meeting in Westminster."
 
-The full response can be [found here](https://www.whatdotheyknow.com/request/southeastern_performance_data#incoming-801193) - lower numbers are better
+The full data can be seen in the response to the Freedom Of Information request at: https://www.whatdotheyknow.com/request/324669/response/801193/attach/4/F0013528%20Reply.doc.pdf and the analysis from SERAG at http://serailaction.uk/2016-04-21-Southeastern-performance-data.html
 
-[Updated with screenshots]
+ENDS
 
-The data comes in three parts, which I'll briefly cover:
+About Southeastern Rail Action Group: SERAG was formed in January 2016 by Phil Rogers (also co-founder of Dartford Rail Travellers' Association) to bring Southeastern rail users together for a collective voice to air concerns about the rail service, and to amplify issues which would previously be within the realms of a more local rail group.  In the space of under 2 months we have had over 500 followers on Twitter and over 100 on Facebook, and the community is growing.
 
-For each table, 'Default' looks to be the standard performance requirement, where 'Breach' is where Southeastern would breach if they went above that number.
+References:
 
-'Benchmark' is the result calculated according to the franchise document - an odd use of the 'benchmark' term.
+[DfT/Claire Perry statement on 11 September 2014](https://www.gov.uk/government/speeches/rail-franchising-south-eastern-direct-award)
 
-### Cancellations
+[Claire Perry letter to Southeastern rail users](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/353258/southeastern-da-letter.pdf)
 
-This table shows that Southeastern are easily meeting their cancellations requirement - i.e. have been consistently around 0.1% below their Breach requirement. A full cancellation is counted as 1 when calculating stats, partial cancellation as 0.5 (so the skip-stops are accounted for in this data)
 
-<img src="{{ site.url }}/images/stats-cancellations.png" alt="Cancellations data" style="width: 500px;"/>
-
-### Capacity
-
-This table shows that Southeastern again are easily meeting their capacity requirement - this covers that Southeastern have put on during peak. Interestingly this doesn't count services that were caught up in a 'Service Recovery Plan' (thanks Sevenoaks RTA!) which does need some further investigation.
-
-But again, they're clearly within their targets - remember, lower is better.
-
-<img src="{{ site.url }}/images/stats-capacity.png" alt="Capacity data" style="width: 500px;"/>
-
-### Delay minutes
-
-This table shows the number of minutes delay per 1000 train miles...again, clearly within the 'Breach' target:
-
-<img src="{{ site.url }}/images/stats-delaymins.png" alt="Delay minutes data" style="width: 500px;"/>
-
-## So what has been in the public view?
-
-This data, which I posted on social media earlier in the week, again, these are screenshots which I'll convert later:
-
-2014-15:
-
-<img src="{{ site.url }}/images/2014periods.png" alt="2014 data" style="width: 500px;"/>
-
-
-2015-16:
-
-<img src="{{ site.url }}/images/2015periods.png" alt="2014 data" style="width: 800px;"/>
-
-It's clear to all that performance has degraded since the new direct award franchise was awarded.  The tables show the difference between the target PPM and reported PPM.
-
-## What were we promised?
-
-I'm copying this from the previous article I wrote:
-
-Remember what the [DfT/Claire Perry said on 11 September 2014](https://www.gov.uk/government/speeches/rail-franchising-south-eastern-direct-award) when the direct franchise award was given to Southeastern?
-
->Tough targets and £70 million investment to ensure major improvements under new South Eastern franchise deal.
-
-We've seen those tough targets in the franchise doc, but without the actual results we can't see how 'tough' they in context...
-
->I recognise that LSER has not always met the expectations of passengers and so this agreement contains rigorous satisfaction and performance targets, with financial penalties if they are not met. I am determined that this contract will ensure an improvement for passengers on the franchise.
-
-We aren't seeing an improvement. PPM is consistently below target - is this reflected in the 'tough targets' that Southeastern are being measured against?
-
-
-Oh and also the letter Claire Perry wrote us:
-
->With a new Managing Director in place to lead the company forward; a commitment to building a long term relationship with you, their customers based on trust; financial penalties payable to the Department for poor performance; **and a very clear, frequent and transparent level of reporting on how much progress is being made**; I am confident that the improvements you need will be delivered.
-
-## What do we actually have?
-
-Consistently bad performance.
-
-The reported PPM (by Southeastern) being typically lower than the target PPM
-
-People complaining on twitter about delayed trains.
-
-Stops being missed.
-
-## How does this match up against the DfT's 'tough targets'
-
-Southeastern have met them all.
-
-Typically enough under the 'breach' level to show they're performing well.#
-
-But wait, what's going on you may ask?
-
-Indeed: what is going on?
-
-## Tough targets?
-
-I don't think so, and when you look at the data you won't think so too.
-
-We were lead to believe that Southeastern will be subject to penalties if they don't meet those targets.
-
-And for all intents and purposes, looking at their reported PPM results, they haven't.
-
-But given the data that the DfT have provided, Southeastern haven't been subject to any penalties, they've easily met the 'tough targets'...whilst not meeting their PPM targets.
-
-How is this even possible?
-
-## It's all a sham
-
-Everything that Claire Perry has promised us means absolutely nothing.  Southeastern were handed the franchise extension on a silver platter, and told to just get on with it.
-
-We, the passengers, were under some misguided belief that behind the scenes the DfT were making sure that these 'tough targets' were being met.
-
-But of course the DfT won't have been doing anything - the targets have been met.
-
-And I guess this is the 'commercial' reason that Southeastern didn't want the data out there - it would show that anyone can run a rail franchise badly and get away with it.
-
-And they have done.
-
-With Claire Perry and the Department for Transport's blessing.
-
-## What next?
-
-Over the coming few days I'll be writing an open letter to Claire Perry about this - and my MP.
-
-You can then use the templated letter to get your MP to question how the rail users in South East England could have got such a raw deal
-
-## Updates
-
-The thoughts writte are from the first 30 minutes of considering the data - I will review it in more detail later, and may edit my thoughts - these edits will be made clear, in the interests of transparency.
