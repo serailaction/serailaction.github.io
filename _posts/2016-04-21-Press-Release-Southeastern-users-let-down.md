@@ -20,7 +20,7 @@ Today we finally obtained the performance data from the Department for Transport
 
 This data has, until now, not been put into the public domain, despite claims by Rail Minister back in September 2014 that Southeastern will be subject to 'tough targets'.
 
-The reported PPM (http://serailaction.uk/2016-04-21-Southeastern-performance-data.html - see tables 4 and 5) shows that Southeastern have not been meeting their target Public Performance Measure (PPM) since April 2015, and the general sentiment we see on social media about the rail service is that rail users are not pleased with the service they get, with regular delays and trains skipping stations whilst leaving rail users further delayed.
+The reported PPM ([http://serailaction.uk/2016-04-21-Southeastern-performance-data.html](http://serailaction.uk/2016-04-21-Southeastern-performance-data.html) - see tables 4 and 5) shows that Southeastern have not been meeting their target Public Performance Measure (PPM) since April 2015, and the general sentiment we see on social media about the rail service is that rail users are not pleased with the service they get, with regular delays and trains skipping stations whilst leaving rail users further delayed.
 
 Phil Rogers today said "I have been trying to understand these 'tough targets' that Claire Perry proudly announced in September 2014, and have been met by countless barriers: from getting access to the franchise document, to getting PPM targets, and recently getting the actual performance data, which Southeastern Managing Director David Statham proudly declared he would be transparent on, when we spent an hour on Radio Kent on Day 2 of the renewed franchise.
 
@@ -34,7 +34,7 @@ Phil Rogers today said "I have been trying to understand these 'tough targets' t
 
 "In the light of this data, I also call on Claire Perry to make a statement about these 'tough targets', and why we haven't seen any visible improvement in the last 18 months - she is more than welcome to contact me for a face to face meeting in Westminster."
 
-The full data can be seen in the response to the Freedom Of Information request at: https://www.whatdotheyknow.com/request/324669/response/801193/attach/4/F0013528%20Reply.doc.pdf and the analysis from SERAG at http://serailaction.uk/2016-04-21-Southeastern-performance-data.html
+The full data can be seen in the response to the Freedom Of Information request at: [https://www.whatdotheyknow.com/request/324669/response/801193/attach/4/F0013528%20Reply.doc.pdf](https://www.whatdotheyknow.com/request/324669/response/801193/attach/4/F0013528%20Reply.doc.pdf) and the analysis from SERAG at [http://serailaction.uk/2016-04-21-Southeastern-performance-data.html](http://serailaction.uk/2016-04-21-Southeastern-performance-data.html)
 
 ENDS
 
