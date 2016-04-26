@@ -44,7 +44,7 @@ Phil Rogers said "For Southeastern to profit from the misery that they inflict o
 
 "Given the £70m that is already being given to them from the taxpayer for running this franchise, further funding to contribute to their parent companies' profits, as we see a rail service that deteriorates daily, is yet another slap in the face for rail users in South East England.
 
-"Today I call on all rail users to send a letter or email to their MP to express their displeasure at how our railways are being run - a template letter is now available on the Southeastern Railway Action Group website at 
+"Today I call on all rail users to send a letter or email to their MP to express their displeasure at how our railways are being run - a template letter is now available on the Southeastern Railway Action Group website at [http://serailaction.uk/2016-04-26-Template-Letter.html](http://serailaction.uk/2016-04-26-Template-Letter.html)
 
 ENDS
 
