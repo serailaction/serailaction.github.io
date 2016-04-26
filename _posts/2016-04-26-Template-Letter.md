@@ -36,7 +36,7 @@ Given, what has turned out to be, the weak targets set out by the DfT, versus th
 
 - You can commit to holding Southeastern to account, listening to your constituents, and raising these concerns to both Govia and the Department for Transport
 - You find a way to be involved in how the next franchise in 2018 is specified - taking into account the needs of your constituents
-- You challenge the DfT for lying to the people you represent and the Southeastern franchise that ‘tough targets’ are in place - while we continue to see PPM targets not met, and a continuing decline in the rail service
+- You challenge the DfT for lying to the constituents you represent and the Southeastern franchise that ‘tough targets’ are in place - while we continue to see PPM targets not met, and a continuing decline in the rail service
 
 I look forward to hearing your views on this matter.
 
@@ -60,7 +60,7 @@ Given, what has turned out to be, the weak targets set out by the DfT, versus th
 
 - You can commit to holding Southeastern to account, listening to your constituents, and raising these concerns to both Govia and the Department for Transport
 - You find a way to be involved in how the next franchise in 2018 is specified - taking into account the needs of your constituents
-- You challenge the DfT for lying to the people of Dartford and the Southeastern franchise that ‘tough targets’ are in place - while we continue to see PPM targets not met, and a continuing decline in the rail service
+- You challenge the DfT for lying to the constituents of Dartford and the Southeastern franchise that ‘tough targets’ are in place - while we continue to see PPM targets not met, and a continuing decline in the rail service
 
 As always, I am happy to meet to discuss Southeastern at a time that we can both make - I realise that this is difficult, but hope that we can discuss this with both my Dartford Rail Travellers’ Association hat on (together with Mike Pellatt), and also as the founder of Southeastern Railway Action Group.
 
