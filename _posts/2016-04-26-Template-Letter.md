@@ -40,6 +40,8 @@ Given, what has turned out to be, the weak targets set out by the DfT, versus th
 
 I look forward to hearing your views on this matter.
 
+Details about how Southeastern's targets, and other activities can be found at Southeastern Railway Action Group's website: [http://www.serailaction.uk](http://www.serailaction.uk)
+
 Regards,
 
 
