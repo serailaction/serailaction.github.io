@@ -38,11 +38,14 @@ The full response can be [found here](https://www.whatdotheyknow.com/request/sou
 
 [Updated with screenshots]
 
-The data comes in three parts, which I'll briefly cover:
+The data comes in three parts, which I'll briefly cover: (I've updated this text to clarify what each column means)
 
-For each table, 'Default' looks to be the standard performance requirement, where 'Breach' is where Southeastern would breach if they went above that number.
+*Benchmark* is the result for that period - this is the only columm that doesn't appear in the original franchise document
 
-'Benchmark' is the result calculated according to the franchise document - an odd use of the 'benchmark' term.
+*Breach* is the amount that Southeastern cannot fall below, if they do then they haven't met the target for that period
+
+*Default* is the standard performance requirement
+
 
 ### Cancellations
 
