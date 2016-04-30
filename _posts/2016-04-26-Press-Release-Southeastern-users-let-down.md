@@ -3,7 +3,7 @@ layout: post
 title: (Updated 26th April) PRESS RELEASE - Southeastern Rail Users let down by Claire Perry
 category : Press Release
 tagline: 
-tags : southeastern, performance, PPM, DfT, transparency
+tags : southeastern, performance, PPM, DfT, transparency, punctuality, delays, targets
 comments: true
 summary: 
 author: Phil Rogers
