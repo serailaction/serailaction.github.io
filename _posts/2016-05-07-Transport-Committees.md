@@ -28,7 +28,10 @@ Be sure to read the 'Terms of reference' for each in the 'Scope of the inquiry b
 
 It should be in Microsoft Word format only (argh!) and contain a summary and your feedback - it's important to look at the subject as a whole, and not target a particular instance - for example, it isn't about complaining that your Delay Repay wasn't paid for a particular journey, or that you didn't receive a notification that your train was cancelled (I think I tweeted enough about the CHX 1801 not been announced on Journeycheck or on SER's twitter last night).
 
-Also note in the guidance that you shouldn't use anything *specifically* prepared for the committee without permission from the clerk of the committee.  So don't post up your response online.
+Also note in the guidance that you shouldn't use anything *specifically* prepared for the committee without permission from the clerk of the committee.  So don't post up your response online. I'm sure you can guess the feedback that I'll be sending them!
 
-I'm sure you can guess the feedback that I'll be sending them!
+Feedback will be published if it is accepted - I think it best to keep your thoughts as succinct as possible. Also make sure you follow the writing conventions in the link above.
 
+There's a chance your feedback won't be accepted - and that is also in the guidance.
+
+So if you can spare an hour to get your thoughts in then that can hopefully contribute to ensuring the next franchise award in the South-East area isn't as poor as the current one.
