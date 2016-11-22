@@ -26,7 +26,7 @@ Summary is that:
 <br>
 <h2>Recommendation</h2>
 
-My recommendation is that customers do NOT site next to the windows on networker trains as this could cause adverse effects to health
+My recommendation is that customers do NOT sit next to the windows on networker trains as this could cause adverse effects to health
 
 <h2>Get the message out</h2>
 
