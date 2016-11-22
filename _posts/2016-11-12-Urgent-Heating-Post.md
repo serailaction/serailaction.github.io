@@ -7,10 +7,10 @@ tags : southeastern, heating, govia, maintenance
 comments: true
 summary: 
 author: Phil Rogers
-
 ---
 
 {% include JB/setup %}
+
 
 I found this paper whilst looking up the effects of heating on the human body:
 
@@ -19,7 +19,7 @@ I found this paper whilst looking up the effects of heating on the human body:
 Summary is that:
 
 <li>blood will flow up to 4x more than before
-<li>core & muscle temperature increased by around 3C
+<li>core and muscle temperature increased by around 3C
 
 ...all from heating ONE leg - and remember that Southeastern's heating exhausts over 60C typically.
 
