@@ -8,7 +8,6 @@ comments: true
 summary: 
 author: Phil Rogers
 ---
-
 {% include JB/setup %}
 
 
@@ -21,13 +20,14 @@ Summary is that:
 <li>blood will flow up to 4x more than before
 <li>core and muscle temperature increased by around 3C
 
+<br>
 ...all from heating ONE leg - and remember that Southeastern's heating exhausts over 60C typically.
 
-## Recommendation
+<br>
+<h2>Recommendation</h2>
 
 My recommendation is that customers do NOT site next to the windows on networker trains as this could cause adverse effects to health
 
-
-## Get the message out
+<h2>Get the message out</h2>
 
 Please share this post with your fellow commuters - delays are bad enough, however damaging your health and wellbeing due to Southeastern's continued negligence, and ignoring of the heating issue, shouldn't be something else to add to the list.
